@@ -4,10 +4,10 @@
 
 | Name | Value |
 |:---|:---|
-| **Course** | CSCI111 - CS1: Foundations of Computer Science |
-| **Section** | 3 |
+| **Course** | Beginning programming of PYTHON |
+| **Section** | 1 |
 | **Semester** | Fall 2023 |
-| **Student** | A Student |
+| **Student** | Chica Gomes |
 | **Mav Username**            | cegomes |
 | **GitHub Username**         | Dj-messup |
 | **Repository**          | https://github.com/Dj-messup/CS0Lab-cegomes.git |
@@ -22,7 +22,7 @@
 | Description | A basic hello world program |
 | Due Date | unknown |
 | Status | Done |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/python/hello |
+| Location | |
 | Self Grade | 100/100 |
 | Notes | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location |
 
