@@ -1,7 +1,5 @@
 # CS0Lab-cegomes#
 
-## A sample github repo demonstrating how to turn in assignments and labs
-
 | Name | Value |
 |:---|:---|
 | **Course** | Beginning programming of PYTHON |
