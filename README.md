@@ -22,7 +22,7 @@
 | Description | A basic hello world program |
 | Due Date | unknown |
 | Status | Done |
-| Location | |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/blob/main/helloworld/hello.py |
 | Self Grade | 100/100 |
 | Notes | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location |
 
