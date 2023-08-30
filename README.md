@@ -8,7 +8,7 @@
 | **Student** | Chica Gomes |
 | **Mav Username**            | cegomes |
 | **GitHub Username**         | Dj-messup |
-| **Repository**          | (https://github.com/Dj-messup/CS0Lab-cegomes) |
+| **Repository**          | https://github.com/Dj-messup/CS0Lab-cegomes |
 
 ## Assignments
 
