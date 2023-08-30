@@ -1,7 +1,5 @@
 # CS0Lab-cegomes
 
-## A sample github repo demonstrating how to turn in assignments and labs
-
 | Name | Value |
 |:---|:---|
 | **Course** | Beginning Programming Python |
@@ -10,7 +8,7 @@
 | **Student** | Chica Gomes |
 | **Mav Username**            | cegomes |
 | **GitHub Username**         | Dj-messup |
-| **Repository**          | https://github.com/rambasnet/csci000-astudent |
+| **Repository**          | (https://github.com/Dj-messup/CS0Lab-cegomes) |
 
 ## Assignments
 
