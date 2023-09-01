@@ -28,13 +28,13 @@
 
 | Name | Value |
 | :--- | :--- |
-| Name | Egypt |
-| Description | [egypt problem on Kattis](https://open.kattis.com/problems/egypt) |
-| Due Date | 1-Feb-2020 |
-| Status | In-progress |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/assignments/cpp/egypt |
-| Self Grade | - |
-| Notes | completed the solution; need to write test cases |
+| Name | ascii |
+| Description | create artwork |
+| Due Date | September 7th |
+| Status | Done |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/ascii |
+| Self Grade | 100/100 |
+| Notes | Completed the code with variables, the screenshot is shown in the same place, I just ran the program and pressed enter instead of putting a name|
 
 
 ## Labs
