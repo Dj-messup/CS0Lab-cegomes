@@ -10,9 +10,9 @@
 | **GitHub Username**         | Dj-messup |
 | **Repository**          | https://github.com/Dj-messup/CS0Lab-cegomes |
 
-## Assignments
+## Lab
 
-### Assignment #1
+### Lab #1
 
 | Name | Value |
 | :--- | :--- |
@@ -24,7 +24,7 @@
 | Self Grade | 100/100 |
 | Notes | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location |
 
-### Assignment #2
+### Lab #2
 
 | Name | Value |
 | :--- | :--- |
@@ -36,10 +36,7 @@
 | Self Grade | 100/100 |
 | Notes | Completed the code with variables, the screenshot is shown in the same place, I just ran the program and pressed enter instead of putting a name|
 
-
-## Labs
-
-### Lab #1
+### Lab #3
 
 | Name | Value |
 | :--- | :--- |
