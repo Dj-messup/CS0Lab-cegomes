@@ -23,8 +23,8 @@ def main():
     a = int(a)
     b = int(b)
     #FIXME 3: convert string b into integer 
-    answer=int(a+b)
-    print(answer)
+    ans=int(a+b)
+    print(ans)
     #FIXME 4: add two numbers and store the result into ans variable
     #FIXME 5: print the answer as shown as sample ouput 
 main()#call main function
