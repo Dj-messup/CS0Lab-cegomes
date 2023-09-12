@@ -1,8 +1,8 @@
 """
 Math and Variables Lab
-By: FIXME
+By: Chica Gomes
 CSCI 110 Lab
-Date: FIXME
+Date: September 10th
  
 Read and solve: Add Two Numbers - https://open.kattis.com/problems/addtwonumbers 
  
