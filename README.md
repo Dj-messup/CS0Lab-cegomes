@@ -40,13 +40,13 @@
 
 | Name | Value |
 | :--- | :--- |
-| Name | 1 - Std IO Lab |
+| Name |Math- Add two numbers|
 | Description | Lab covering standard input and output |
-| Due Date | 10-Jan-20 |
-| Status | in-progress |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/labs/cpp/stdio |
-| Self Grade | - |
-| Notes | typed the given code stub; need to fix all the fixmes |
+| Due Date | September 9th|
+| Status | Done |
+| Location |  |
+| Self Grade | 100/100 |
+| Notes | typed the code stub, updated the Fixme's and used integer variables |
 
 
 ## References
