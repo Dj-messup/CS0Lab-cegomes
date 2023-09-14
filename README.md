@@ -30,7 +30,7 @@
 | :--- | :--- |
 | Name | ascii |
 | Description | create artwork |
-| Due Date | September 7th |
+| Due Date | September 5th |
 | Status | Done |
 | Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/ascii |
 | Self Grade | 100/100 |
@@ -42,7 +42,7 @@
 | :--- | :--- |
 | Name |Math- Add two numbers|
 | Description | Lab covering standard input and output |
-| Due Date | September 5th|
+| Due Date | September 12th|
 | Status | Done |
 | Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/math |
 | Self Grade | 100/100 |
