@@ -56,7 +56,7 @@
 | Description | A program that uses sys., fruitful functions, and library to multiply or add operands|
 | Due Date | September 19th|
 | Status | Done |
-| Location |  |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/buka |
 | Self Grade | 100/100 |
 | Notes | typed the code stub, updated the Fixme's and used integer variables |
 
