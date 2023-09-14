@@ -48,6 +48,20 @@
 | Self Grade | 100/100 |
 | Notes | typed the code stub, updated the Fixme's and used integer variables |
 
+### Lab #4
+
+| Name | Value |
+| :--- | :--- |
+| Name |Math- Add two numbers|
+| Description | Lab covering standard input and output |
+| Due Date | September 9th|
+| Status | Done |
+| Location |  |
+| Self Grade | 100/100 |
+| Notes | typed the code stub, updated the Fixme's and used integer variables |
+
+
+
 
 ## References
 
