@@ -42,7 +42,7 @@
 | :--- | :--- |
 | Name |Math- Add two numbers|
 | Description | Lab covering standard input and output |
-| Due Date | September 9th|
+| Due Date | September 5th|
 | Status | Done |
 | Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/math |
 | Self Grade | 100/100 |
