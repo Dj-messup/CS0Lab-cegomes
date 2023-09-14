@@ -44,7 +44,7 @@
 | Description | Lab covering standard input and output |
 | Due Date | September 9th|
 | Status | Done |
-| Location |  |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/math |
 | Self Grade | 100/100 |
 | Notes | typed the code stub, updated the Fixme's and used integer variables |
 
