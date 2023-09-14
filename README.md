@@ -52,9 +52,9 @@
 
 | Name | Value |
 | :--- | :--- |
-| Name |Math- Add two numbers|
-| Description | Lab covering standard input and output |
-| Due Date | September 9th|
+| Name |Library & Functions-Buka|
+| Description | A program that uses sys., fruitful functions, and library to multiply or add operands|
+| Due Date | September 19th|
 | Status | Done |
 | Location |  |
 | Self Grade | 100/100 |
