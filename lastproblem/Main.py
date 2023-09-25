@@ -12,6 +12,7 @@ Algorithm:
 3. Create the output as asked and print it using function
 4. run the codes/fruitful functions through main and store it into an answer variable
 5. print answer variable and call main function
+6. test the main function in test_main.py by importing Main
 '''
  
 import sys
