@@ -30,7 +30,7 @@
 | :--- | :--- |
 | Name | ascii |
 | Description | create artwork |
-| Due Date | September 7th |
+| Due Date | September 5th |
 | Status | Done |
 | Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/ascii |
 | Self Grade | 100/100 |
@@ -40,13 +40,27 @@
 
 | Name | Value |
 | :--- | :--- |
-| Name | 1 - Std IO Lab |
+| Name |Math- Add two numbers|
 | Description | Lab covering standard input and output |
-| Due Date | 10-Jan-20 |
-| Status | in-progress |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/labs/cpp/stdio |
-| Self Grade | - |
-| Notes | typed the given code stub; need to fix all the fixmes |
+| Due Date | September 12th|
+| Status | Done |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/math |
+| Self Grade | 100/100 |
+| Notes | typed the code stub, updated the Fixme's and used integer variables |
+
+### Lab #4
+
+| Name | Value |
+| :--- | :--- |
+| Name |Library & Functions-Buka|
+| Description | A program that uses sys., fruitful functions, and library to multiply or add operands|
+| Due Date | September 19th|
+| Status | Done |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/buka |
+| Self Grade | 100/100 |
+| Notes | typed the code stub, updated the Fixme's and used integer variables |
+
+
 
 
 ## References
