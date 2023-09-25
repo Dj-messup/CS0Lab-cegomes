@@ -65,7 +65,7 @@
 | Name | Value |
 | :--- | :--- |
 | Name | Factions and Unit Testing-last problem |
-| Description |  |
+| Description | Solving friendship with lovely goodbyes |
 | Due Date | unknown |
 | Status | Done |
 | Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/lastproblem |
