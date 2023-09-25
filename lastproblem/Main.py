@@ -8,8 +8,10 @@ Read and solve - The Last Problem: https://open.kattis.com/problems/thelastprobl
 
 Algorithm:
 1. Read the input string using function
+2. read the data as an input and return the first fruitful function
 3. Create the output as asked and print it using function
-3. Test functions using test cases
+4. run the codes/fruitful functions through main and store it into an answer variable
+5. print answer variable and call main function
 '''
  
 import sys
