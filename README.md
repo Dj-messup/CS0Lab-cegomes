@@ -60,8 +60,17 @@
 | Self Grade | 100/100 |
 | Notes | typed the code stub, updated the Fixme's and used integer variables |
 
+### Lab #5
 
-
+| Name | Value |
+| :--- | :--- |
+| Name | Factions and Unit Testing-last problem |
+| Description | Solving friendship with lovely goodbyes |
+| Due Date | unknown |
+| Status | Done |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/lastproblem |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location |
 
 ## References
 
