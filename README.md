@@ -72,6 +72,31 @@
 | Self Grade | 100/100 |
 | Notes | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location |
 
+### Lab #6
+
+| Name | Value |
+| :--- | :--- |
+| Name | Conditions/ Two stones |
+| Description | solving who wins Alice or BOb by even or odd results |
+| Due Date | unknown |
+| Status | Done |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/conditions |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements and tested program many times; used pytest along with kattis solution accepted; screenshots found in the same location |
+
+### Lab #7
+
+| Name | Value |
+| :--- | :--- |
+| Name | Oddities |
+| Description | solving for odd and even inputs |
+| Due Date | unknown |
+| Status | Done |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/conditions |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements and tested program many times kattis solution accepted; screenshots found in the same location |
+
+
 ## References
 
 1. [How to turn in assignments on GitHub](https://docs.google.com/document/d/16mixtVA-dePbWidBzI3JXNW4kFhRyT7XsJgL6GtGvGA/edit?usp=sharing)
