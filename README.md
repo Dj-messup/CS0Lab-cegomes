@@ -92,7 +92,7 @@
 | Description | solving for odd and even inputs |
 | Due Date | unknown |
 | Status | Done |
-| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/conditions |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/oddities |
 | Self Grade | 100/100 |
 | Notes | completed all the requirements and tested program many times kattis solution accepted; screenshots found in the same location |
 
