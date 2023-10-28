@@ -23,16 +23,13 @@ Algorithm steps:
 from typing import List
 
 def main() -> None:
-    """Main function that solves the problem
-    """
-    # Step 1: Create a list to store the total scores of each contestant
     scores = []
-    
-    # Step 2-6: Repeat the following 5 times
+
     for _ in range(5):
-        # Step 2: Read the input line as a list of integers
-        input_data = get_data()
-        
+        contestant_scores = get_data()
+        total_score = list_sum(contestant_scores)
+        scores.append(total_score)
+
         # Step 3: Find the sum of scores using list_sum function
         line_sum = list_sum(input_data)
         
