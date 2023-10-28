@@ -50,12 +50,9 @@ def get_data() -> List[int]:
     Returns:
         List[int]: list of ints
     """
-    input_data = []
-    for _ in range(5):
-        line = input("Enter 4 grades for a contestant: ")
-        contestant_grades = [int(grade) for grade in line.split()]
-        input_data.extend(contestant_grades)
-    return input_data
+    line = input("Enter 4 grades for a contestant: ")
+    contestant_grades = [int(grade) for grade in line.split()]
+    return contestant_grades
 
 def list_sum(numbers: List[int]) -> int:
     """Finds and returns the sum of the numbers in the list.
