@@ -30,7 +30,7 @@ def main() -> None:
     
     # Step 2-6: Repeat the following 5 times
     for _ in range(5):
-        # Step 2: Read the input line as a list of integers using get_data function
+        # Step 2: Read the input line as a list of integers
         input_data = get_data()
         
         # Step 3: Find the sum of scores using list_sum function
