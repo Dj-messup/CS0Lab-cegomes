@@ -17,6 +17,7 @@ Algorithm steps:
     i. Print 1 if it's a palindrome
     ii Otherwise, print 0
 """
+
 import sys
 
 # create English to Morse Code dictionary
@@ -47,7 +48,16 @@ engToMorse = {
     'X': '-..-',
     'Y': '-.--',
     'Z': '--..',
-    # FIXME 1: map the digits to their corresponding morse code
+    '0': '-----',  # map the digits to their corresponding Morse code
+    '1': '.----',
+    '2': '..---',
+    '3': '...--',
+    '4': '....-',
+    '5': '.....',
+    '6': '-....',
+    '7': '--...',
+    '8': '---..',
+    '9': '----.',
 }
 
 
@@ -55,46 +65,52 @@ def is_palindrome(morse_code: str) -> int:
     """Returns 1 if the morse_code string is palindrome; 0 Otherwise.
 
     Args:
-        morse_code (str): morse code palindrome string
+        morse_code (str): Morse code palindrome string
 
     Returns:
         int: 1 or 0
     """
-    # FIXME 2: if the morse_code string is empty, return 0
+    # 2. if the morse_code string is empty, return 0
     # Otherwise use the algorithm:
-    # 1. reverse the morse_code string and store into a variable
-    # 2. if the morse_code equals to the reversed string, it is a palindrome and return 1
+    # 1. reverse the morse_code string and store it in a variable
+    # 2. if the morse_code equals the reversed string, it is a palindrome and return 1
     # 3. return 0 otherwise
-    return 1
+    if not morse_code:
+        return 0
+    reversed_morse = morse_code[::-1]
+    return 1 if morse_code == reversed_morse else 0
 
 
 def convert_to_morse(english: str) -> str:
-    """The function converts the given english text into corresponding morese code
+    """The function converts the given English text into corresponding Morse code
 
     Args:
-        english (str): eglish text convereted into upper case
+        english (str): English text converted into uppercase
 
     Returns:
         str: Morse code
     """
     morse_code = ''
     # Algorithm steps:
-    # For ecah character in english,
-    #   find the morse code of the character using engToMorse dictionary
-    #   concatenate morse code to morse_code variable if key exists
+    # For each character in English,
+    #   find the Morse code of the character using engToMorse dictionary
+    #   concatenate Morse code to morse_code variable if key exists
     #   ignore the key/character if it doesn't exist in the dictionary
     # FIXME 3: implement the above algorithm
+    for char in english:
+        morse_code += engToMorse.get(char, '')
     return morse_code
 
 
 def solve() -> None:
-    # read/input english text as a line
+    # read/input English text as a line
     english = input()
-    # FIXME 4: convert english into uppercase
-    upper_english = english
+    # FIXME 4: convert English into uppercase
+    upper_english = english.upper()
     print(upper_english, file=sys.stderr)
     morse_code = convert_to_morse(upper_english)
     # FIXME 5: call is_palindrome passing proper argument and print the result
+    print(is_palindrome(morse_code))
 
 
 if __name__ == '__main__':
