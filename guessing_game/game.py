@@ -1,9 +1,7 @@
 """ 
 Functions related to game main logic.
 """
-
-from utility import functions
-
+from python_utils import functions
 
 def play_game(name: str, max_tries: int) -> bool:
     """Main game logic of the Guess The Number game.
@@ -21,18 +19,28 @@ def play_game(name: str, max_tries: int) -> bool:
     print('You have 5 chances to guess the number.')
     tries = 0
     while tries <= max_tries:
-        # FIXME: Add code to get the user's guess using the correct
+        # Add code to get the user's guess using the correct
         # function in utility/functions.py.
-        # FIXME: check if the user's guess is correct using the correct
-        # function in utility/functions.py.
-        # FIXME: If the user's guess is correct, print a message and return True for a win.
-        # FIXME: If the user's guess is incorrect,
-        # print a message saying their guess is too large or too small
-        # and increment the number of tries.
-        return True
-    else:
-        return False  # return False for a loss
+        user_guess = functions.get_user_guess()
 
+        # check if the user's guess is correct using the correct
+        # function in utility/functions.py.
+        if functions.check_guess(user_guess, rand):
+            # If the user's guess is correct, print a message and return True for a win.
+            print(f"Congratulations, {name}! You guessed the correct number.")
+            return True
+        else:
+            # If the user's guess is incorrect,
+            # print a message saying their guess is too large or too small
+            # and increment the number of tries.
+            if user_guess > rand:
+                print("Your guess is too large.")
+            else:
+                print("Your guess is too small.")
+            tries += 1
+    else:
+        # return False for a loss
+        return False
 
 def clear_screen() -> None:
     """Clears the screen.

@@ -2,22 +2,24 @@
 Game Application - Guess the Number 
 """
 
-__author__ = "FIXME"
-__date__ = "FIXME"
+__author__ = "Chica Gomes"
+__date__ = "11/25"
 __license__ = "MIT"
 __course__ = "CSCI 110 Lab"
 __semester__ = "Fall 2023"
 
 from typing import Any, List, Dict
 import time
-from utility import functions
+from python_utils import functions
 import settings
 from game import play_game, clear_screen, pause, get_menu_option
 
 
+# Import statements and other code as provided
+
 def game_intro() -> None:
     clear_screen()
-    print('Welcome to the game...')
+    print('Welcome to the Guess the Number game!')
     time.sleep(1)
     print(settings.ASCII)
     time.sleep(1)
@@ -27,18 +29,21 @@ def game_intro() -> None:
 
 
 def main() -> None:
-    """ 
-    Main function for the game.
-    """
+    """Main function for the game."""
     game_intro()
+    
     data = functions.read_data(settings.SCORE_BOARD_FILE)
     if not data:
         data = []
 
     # Ask who's playing?
     player = functions.get_player_info()
-    if not functions.find_player_in_db(data, player['name']):
+    current_player = functions.find_player_in_db(data, player['name'])
+
+    if current_player is None:
         data.append(player)
+    else:
+        player = current_player
 
     while True:
         clear_screen()
@@ -52,21 +57,25 @@ def main() -> None:
         elif option == 2:
             view_scoreboard(data)
         elif option == 3:
-            # FIXME - Update data to include the new player's info.
-            # FIXME - Add code to save the data to the file using correct function in utility/functions.py.
             functions.save_data(settings.SCORE_BOARD_FILE, data)
-            print(
-                f'saving score board to the file {settings.SCORE_BOARD_FILE}')
+            print(f'Saving score board to the file {settings.SCORE_BOARD_FILE}')
             print("Goodbye!")
+            input('Press Enter to exit...')
             break
+        else:
+            # Invalid option. Try again.
+            print("Invalid option. Please enter a valid option.")
 
-
-def view_scoreboard(data: List[Any]) -> None:
+# Implement the view_scoreboard function
+def view_scoreboard(data: List[Dict[str, Any]]) -> None:
     """Display data in tabular format.
 
     Args:
-        data (dict): data of all the players in the database
+        data (List[Dict[str, Any]]): Data of all the players in the database
     """
+    # Implement the logic to display the scoreboard in tabular format.
+    # You might consider using the tabulate library for this purpose.
+    pass  # Placeholder to keep the function body non-empty
 
 
 if __name__ == "__main__":
