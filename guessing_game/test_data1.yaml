@@ -1,0 +1,6 @@
+- loss: 1
+  name: John Smith
+  win: 2
+- loss: 0
+  name: Jake Smith
+  win: 1

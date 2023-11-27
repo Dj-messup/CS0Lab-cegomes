@@ -1,7 +1,7 @@
 """ 
 Functions related to game main logic.
 """
-from python_utils import functions
+from utility import functions
 
 def play_game(name: str, max_tries: int) -> bool:
     """Main game logic of the Guess The Number game.

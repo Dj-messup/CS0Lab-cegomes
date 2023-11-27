@@ -1,0 +1,9 @@
+- loss: 1
+  name: John Smith
+  win: 2
+- loss: 0
+  name: Jake Smith
+  win: 1
+- loss: 2
+  name: Jane Doe
+  win: 3
