@@ -1,9 +1,9 @@
 """
 File I/O Lab
-By: FIXME0
+By: Chica Gomes
 
 CSCI 110
-Date: FIXME0
+Date: unknown
 
 Program prompts user to enter name of the file that contains 10 integers.
 It opens, reads and stores the numbers into a list.

@@ -9,7 +9,7 @@ def test_convert_to_palindrome1():
     expected_ans = '.- -.'
     assert actual_ans == expected_ans
 
-# FIXME 6 - Write 3 more test cases to test convert_to_palindrome function
+#  - Write 3 more test cases to test convert_to_palindrome function
 
 def test_convert_to_palindrome3():
     actual_ans = morsecode.convert_to_morse('123')
@@ -28,7 +28,7 @@ def test_ispalindrome1():
     expected = 1
     assert ans == expected
 
-# FIXME 7 - Write 3 more test cases to test is_palindrome function
+# - Write 3 more test cases to test is_palindrome function
 
 def test_ispalindrome3():
     ans = morsecode.is_palindrome('.-.-.')

@@ -1,8 +1,8 @@
 """
 Dictionary and Unittest Lab
-Updated By: FIXME
+Updated By:Chica Gomes
 CSCI 110 Lab
-Date: FIXME
+Date: unknown
 
 Solution for Kattis problem - Morse Code Palindromes - https://open.kattis.com/problems/morsecodepalindromes  
 

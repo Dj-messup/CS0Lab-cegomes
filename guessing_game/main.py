@@ -2,8 +2,8 @@
 Game Application - Guess the Number 
 """
 
-__author__ = "FIXME"
-__date__ = "FIXME"
+__author__ = 'Chica Gomes'
+__date__ = '11/26'
 __license__ = "MIT"
 __course__ = "CSCI 110 Lab"
 __semester__ = "Fall 2023"
