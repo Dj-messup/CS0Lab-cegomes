@@ -96,6 +96,90 @@
 | Self Grade | 100/100 |
 | Notes | completed all the requirements and tested program many times kattis solution accepted; screenshots found in the same location |
 
+### Lab #8
+
+| Name | Value |
+| :--- | :--- |
+| Name | Oddities |
+| Description | solving for odd and even inputs |
+| Due Date | unknown |
+| Status | Done |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/oddities |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements and tested program many times kattis solution accepted; screenshots found in the same location |
+
+### Lab #9
+
+| Name | Value |
+| :--- | :--- |
+| Name | String/Simon says |
+| Description | solving for simon says rules |
+| Due Date | unknown |
+| Status | Done |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/strings |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements and tested program many times kattis solution accepted; screenshots found in the same location |
+
+### Lab #10
+
+| Name | Value |
+| :--- | :--- |
+| Name | List/Pet |
+| Description | solving for contestants culinary delights |
+| Due Date | unknown |
+| Status | Done |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/lists |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements and tested program many times kattis solution accepted; screenshots found in the same location |
+
+### Lab #11
+
+| Name | Value |
+| :--- | :--- |
+| Name | Dict/mores code|
+| Description | solving for morse code palindrome |
+| Due Date | unknown |
+| Status | Done |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/dicts |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements and tested program many times kattis solution accepted; screenshots found in the same location |
+
+### Lab #12
+
+| Name | Value |
+| :--- | :--- |
+| Name | FILEIO |
+| Description | solving for game show data |
+| Due Date | unknown |
+| Status | Done |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/fileio |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements and tested program many times kattis solution accepted; screenshots found in the same location |
+
+### Lab #12
+
+| Name | Value |
+| :--- | :--- |
+| Name | FILEIO 2|
+| Description | solving for sorting names and large/small numbers |
+| Due Date | unknown |
+| Status | Done |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/blob/main/fileio/fileio.py |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements and tested program many times kattis solution accepted; screenshots found in the same location |
+
+### Lab #12
+
+| Name | Value |
+| :--- | :--- |
+| Name | OOP |
+| Description | solving for odd and even inputs |
+| Due Date | unknown |
+| Status | Done |
+| Location | https://github.com/Dj-messup/CS0Lab-cegomes/tree/main/oddities |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements and tested program many times kattis solution accepted; screenshots found in the same location |
+
 
 ## References
 
