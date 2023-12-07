@@ -6,10 +6,10 @@ Using OOP concept, solve: Bijele - https://open.kattis.com/problems/bijele
 
 Algorithm:
     1. Create chess.py module to define the the Chess class
-    2. Define the __init__ method to initialize the Chess class
-    3. Define the __str__ method to return the string representation of the Chess class
-    4. Define the __sub__ method to return the difference between two Chess objects
-    5. print the difference as shown in the sample output
+    2. Define the method for Chess class
+    3. Define the string representation of the Chess class
+    4. Define the difference between two Chess objects
+    5. print the difference
 """
 # chess.py
 
